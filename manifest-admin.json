@@ -2,14 +2,14 @@
   "name": "Timbratura Admin",
   "short_name": "T. Admin",
   "description": "Pannello amministrazione presenze",
-  "start_url": "./admin.html",
-  "scope": "./",
+  "start_url": "/timbratura-app/admin.html",
   "display": "standalone",
   "background_color": "#1E3A5F",
   "theme_color": "#1E3A5F",
-  "orientation": "portrait-primary",
+  "orientation": "portrait",
   "icons": [
-    { "src": "./icons/icon-admin-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
-    { "src": "./icons/icon-admin-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
-  ]
+    { "src": "icon-admin-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-admin-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["business", "productivity"]
 }
