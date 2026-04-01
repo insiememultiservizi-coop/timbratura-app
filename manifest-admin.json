@@ -1,0 +1,14 @@
+{
+  "name": "Timbratura Admin",
+  "short_name": "T. Admin",
+  "description": "Pannello amministrazione presenze",
+  "start_url": "/admin.html",
+  "display": "standalone",
+  "background_color": "#1A1814",
+  "theme_color": "#1A1814",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icons/icon-admin-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icons/icon-admin-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
